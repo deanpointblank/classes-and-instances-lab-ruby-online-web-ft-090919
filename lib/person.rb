@@ -1,1 +1,1 @@
-Class Pe
+Class Person
